@@ -1,6 +1,6 @@
 # fourth_app
 
-A new Flutter project.
+December 2019 Flutter project.
 
 ## Getting Started
 
